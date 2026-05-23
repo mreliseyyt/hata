@@ -1,7 +1,7 @@
 #profile-title: Домашний VPN 
 #profile-update-interval: 1
 #support-url: https://t.me/mreliseyyt
-#announce: Не работает скажите мне. Source: codeberg
+#announce: Не работает скажите мне. Source: github
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://f1e38252-2632-429c-b049-f103c75d1420@84.201.141.64:443?type=xhttp&encryption=none&security=reality&pbk=Awtz14UokwAadn1dOZ_PV36AiEdfgWwACsI-_yMuKUs&sni=fill.com&sid=2703e290a21fd00b&fp=firefox&spx=/&path=/&mode=auto#%F0%9F%87%B7%F0%9F%87%BA%F0%9F%87%B7%F0%9F%87%B4%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D1%8F%28%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%29-1186745821%3A3689dd0cf04049529d88b5e02c751f78
